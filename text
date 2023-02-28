@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Klepon</title>
+<link href="cssnya.txt" rel="stylesheet" type="text/css">
+</head>
+
+<script src="js/thescript.js"></script>
+
+<body>
+
+	<h1>Klepon</h1>
+
+    <img src="klepon.jpg" width="500" class="center">
+
+	<p>Anisa Dzikra / 2502043116 <br>
+        Raissa Azaria / 2502005805<br>
+        Leonardo Richie / 2502005856
+    </p>
+		
+	<p>
+        Past Projects: <br>
+        ·Database Technology:<br>
+        An online shopping system that allows the shop admin easier tracking of the customers order. <br>
+        ·Card Matching Game:<br>
+        A game about matching cards with the same image, this game is build with java. <br>
+        ·Store Management System:<br>
+        A program about sorting the storage system, where the user can input a specific item to search for the storage place. The program uses sorting system and was built in python. <br>
+
+    </p>
+		
+	<p>
+        Technology and Experience: <br>
+        Binus Computer Science
+
+    </p>
+
+    <p>
+        Project Title: Klepon <br>
+        Making an online store system combine with food delivery system.
+    </p>
+
+    <p>
+        Current time:<span id='date-time'></span>.
+    </p>
+
+</body>
+</html>
